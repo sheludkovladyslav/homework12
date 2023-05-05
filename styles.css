@@ -1,0 +1,50 @@
+.header {
+    background-color: #2F2D2E;
+    color: white;
+    height: 80px;
+}
+.header h2 {
+    padding: 25px 45%;
+}
+.navigation {
+    background-color: #9B999A;
+    height: 20px;
+    color: white;
+    padding-left: 30px;
+    margin-bottom: 15px;
+}
+.main-content {
+    height: 300px;
+    background-color: #DFDFDF;
+    width: 300px;
+    display: inline-block;
+    margin-left: 15% ;
+}
+.main-content h2 {
+    padding: 100px 25%;
+    color: #404040;
+}
+
+.sidebar {
+    background-color: #BBB9BA;
+    color: #434142;
+    display: inline-block;
+    height: 300px;
+    width: 100px;
+    margin-left: -4px;
+    margin-left: 5px;
+    padding-left:20px ;
+}
+.sidebar h2 {
+    margin-top: 120px;
+}
+
+.footer {
+    background-color: #555555;
+    color: white;
+    height: 80px;
+}
+
+.footer h2 {
+    padding: 20px 40%;
+}
